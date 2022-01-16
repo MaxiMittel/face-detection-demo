@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/face-detection-demo/static/css/main.b15bb71f.css",
-    "main.js": "/face-detection-demo/static/js/main.bed84de1.js",
+    "main.js": "/face-detection-demo/static/js/main.dabe29ab.js",
     "static/js/787.63f37dc2.chunk.js": "/face-detection-demo/static/js/787.63f37dc2.chunk.js",
     "static/media/loading.gif": "/face-detection-demo/static/media/loading.da957564f36070647695.gif",
     "index.html": "/face-detection-demo/index.html",
     "main.b15bb71f.css.map": "/face-detection-demo/static/css/main.b15bb71f.css.map",
-    "main.bed84de1.js.map": "/face-detection-demo/static/js/main.bed84de1.js.map",
+    "main.dabe29ab.js.map": "/face-detection-demo/static/js/main.dabe29ab.js.map",
     "787.63f37dc2.chunk.js.map": "/face-detection-demo/static/js/787.63f37dc2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b15bb71f.css",
-    "static/js/main.bed84de1.js"
+    "static/js/main.dabe29ab.js"
   ]
 }
